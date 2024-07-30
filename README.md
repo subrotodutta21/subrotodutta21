@@ -12,5 +12,5 @@ A passionate data analyst with a knack for transforming raw data into actionable
 ### Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/subroto-dutta-b1342217b/)
-- [Email](subrotodutta21@gmail.com)
+- [Email](mailto:subrotodutta21@gmail.com)
 - [Portfolio](https://www.datascienceportfol.io/subroto_dutta)
