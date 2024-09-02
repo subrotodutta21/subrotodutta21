@@ -15,4 +15,4 @@ A passionate data analyst with a knack for transforming raw data into actionable
 
 - [LinkedIn](https://www.linkedin.com/in/subroto-dutta/)
 - [Email](mailto:subrotodutta21@gmail.com)
-- [Portfolio](https://www.datascienceportfol.io/subroto_dutta)
+- [Portfolio](https://portfolio-subroto.netlify.app/)
